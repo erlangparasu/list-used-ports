@@ -1,0 +1,22 @@
+{
+    "name": "erlangparasu/list-used-ports",
+    "description": "PHP List Used Ports",
+    "type": "library",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Erlangparasu\\ListUsedPorts\\": "src/"
+        },
+        "files": [
+            "src/list-used-ports.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Erlang Parasu",
+            "email": "erlangparasu@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
